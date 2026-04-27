@@ -1,81 +1,109 @@
-# README - Aula 07 | Nuvem e Sistemas Operacionais
+# ☁️ README - Aula 07 | Nuvem e Sistemas Operacionais
 
-## Resumo da Aula
+<div align="center">
 
-Nesta atividade foi desenvolvido um projeto prático com foco em Computação em Nuvem e Sistemas Operacionais. O objetivo principal foi compreender como aplicações modernas podem ser criadas localmente e depois publicadas em ambiente cloud.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-Foi utilizada uma API REST como exemplo de backend, simulando um Web Service acessível pela internet.
-
----
-
-## Projeto Desenvolvido
-
-**cloud-so-app**
-
-Aplicação backend criada para exibir informações do sistema operacional em execução, permitindo comparar ambiente local com ambiente hospedado em nuvem.
-
-O sistema foi publicado no Render, plataforma de deploy em cloud.
+</div>
 
 ---
 
-## Tecnologias Utilizadas
+## 🎯 Resumo da Aula
 
-- Node.js
-- Express.js
-- GitHub
-- Render
-- VS Code
+Projeto acadêmico com foco em **Computação em Nuvem**, **Sistemas Operacionais** e **Backend**.
 
----
+Fluxo realizado:
 
-## Objetivos Acadêmicos Atingidos
-
-### Sistemas Operacionais
-
-Foram aplicados conceitos de:
-
-- Processos
-- Uso de CPU
-- Gerenciamento de memória
-- Tempo de atividade do sistema
-- Interação software x sistema operacional
-
-### Computação em Nuvem
-
-Foram compreendidos conceitos de:
-
-- Hospedagem em nuvem
-- Deploy de aplicações
-- Escalabilidade
-- Virtualização
-- Acesso remoto via internet
-
-### Desenvolvimento Web
-
-Foram praticados conceitos de:
-
-- API REST
-- Backend
-- Rotas HTTP
-- Estrutura de projetos Node.js
+**Desenvolvimento local → GitHub → Deploy no Render → Aplicação online**
 
 ---
 
-## Comparação Local x Nuvem
+## 🚀 Projeto Desenvolvido
 
-A atividade permitiu observar diferenças entre:
+### cloud-so-app
 
-- Máquina física local
-- Ambiente virtualizado em cloud
-- Recursos computacionais distintos
-- Execução local vs produção online
+Aplicação backend criada para exibir informações do sistema operacional via API REST, permitindo comparar ambiente local e ambiente em nuvem.
 
 ---
 
-## Conclusão
+## 🛠️ Tecnologias Utilizadas
 
-A aula integrou teoria e prática, demonstrando como Sistemas Operacionais sustentam aplicações modernas e como a Computação em Nuvem permite disponibilizar sistemas globalmente.
+<div align="center">
 
-O projeto serviu como introdução realista ao funcionamento de backends modernos hospedados em infraestrutura profissional.
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="70">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="70">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="70">
+
+</div>
 
 ---
+
+## 🎓 Objetivos Acadêmicos Atingidos
+
+### 💻 Sistemas Operacionais
+
+- Processos  
+- CPU  
+- Memória RAM  
+- Tempo de atividade  
+- Comunicação software x hardware  
+
+### ☁️ Computação em Nuvem
+
+- Virtualização  
+- Deploy de aplicações  
+- Infraestrutura remota  
+- Escalabilidade  
+- Disponibilidade online  
+
+### 🌐 Desenvolvimento Web
+
+- API REST  
+- Backend  
+- Rotas HTTP  
+- Node.js  
+
+---
+
+## 🔍 Comparação Local x Cloud
+
+| Ambiente Local | Ambiente Cloud |
+|--------------|----------------|
+| Máquina física | Servidor virtual |
+| Recursos próprios | Recursos escaláveis |
+| Teste local | Produção online |
+| Uso interno | Acesso global |
+
+---
+
+## 📚 Conclusão
+
+A atividade demonstrou na prática como sistemas operacionais sustentam aplicações modernas e como a nuvem permite disponibilizar serviços globalmente.
+
+---
+
+## 🧠 Competências Desenvolvidas
+
+✅ Backend moderno  
+✅ Deploy profissional  
+✅ Versionamento GitHub  
+✅ Infraestrutura cloud  
+✅ Visão prática de sistemas  
+
+---
+
+## 👨‍💻 Projeto Acadêmico FATEC
+
+**Disciplina: Sistemas Operacionais**  
+**Tema: Cloud + Backend + Infraestrutura Moderna**
+
+---
+
